@@ -1,0 +1,19 @@
+body{
+    min-width: 1200px;
+    max-width: 1400px;
+    min-height: 1200px;
+}
+
+header{
+    border: 10px dashed blue;
+    height: 400px;
+}
+main{
+    border: 10px solid rgb(255,77,0);
+    height: 400px;
+}
+footer{
+    border: 10px dotted rgb(0,255,68);
+    height: 400px;
+}
+
